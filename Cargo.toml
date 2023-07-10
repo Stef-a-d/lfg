@@ -9,3 +9,7 @@ edition = "2021"
 reqwest = {version = "0.11.14", features = ["blocking"]}
 quick-xml = {version = "0.28", features = ["serialize"]}
 serde = { version = "1.0", features = ["derive"] }
+constcat = "0.3.0"
+const_format = "0.2.31"
+regex = "1.9.1"
+lazy_static = "1.4.0"
